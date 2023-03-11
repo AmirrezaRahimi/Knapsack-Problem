@@ -1,6 +1,6 @@
 # Knapsack-Problem
 Algorithm Project
 
-Greedy
-Bachtracking
+Greedy ,
+Bachtracking ,
 Dynamic
