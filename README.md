@@ -2,5 +2,5 @@
 Algorithm Project
 
 Greedy ,
-Bachtracking ,
+Backtracking ,
 Dynamic
